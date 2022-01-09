@@ -7,4 +7,4 @@ Even if our development benefits a single child or learner out there.
 
 <h1>Challenges we ran into</h1>
 Deciding the components as such was easy, but to implement them was definitely not a cakewalk. We brainstormed various hours figuring out the plugins that were to be used. A hell lot of time was invested in fixing the bugs of our code as the experiment procedure was based on it. We had to make sure if the user violates the order of the experiment, it would
-show an error then and there and the experiment has to be restarted. And to construct a system where the progress of children could be monitored by their teachers virtually was also challenging. But our team members are glad we managed to finish and put up all the components in the end.
+show an error then and there and the experiment has to be restarted. And to construct a system where the progress of children could be monitored by their teachers virtually was also challenging. But we are glad we managed to finish and put up all the components in the end.
